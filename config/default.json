@@ -1,0 +1,5 @@
+{
+    "db": "mongodb://localhost/netflix_clone",
+    "cryptojsKey": "SecuredKey",
+    "jwtPrivateKey": "SecuredKey"
+}
